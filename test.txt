@@ -1,3 +1,5 @@
 hello world
 
 push test
+
+push --set-upstream test
